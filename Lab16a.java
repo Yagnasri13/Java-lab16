@@ -21,3 +21,8 @@ class Lab16a
   c.area();
  }
 }
+
+OUTPUT:
+
+Z:\mca16.java>java Lab16a
+ the area of circle is 113.04
